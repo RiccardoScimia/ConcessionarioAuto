@@ -57,10 +57,3 @@ class dipendente:
         self.dipendenti.append(dipendente)
         print(f"{nome} {cognome} aggiunto/a al registro dei dipendenti")
 
-genio del male pocoPIO
-
-ho messo commit
-
-aggiungo una 3 linea per venerare la madonna della libera, patrono indiscusso del mondo religioso cristiano, anzi capa suprema di ogni divinità esistente nelle religioni universali
-
-teoricamente devo poter modificare il file anche io
