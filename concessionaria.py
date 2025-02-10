@@ -57,5 +57,7 @@ class dipendente:
         self.dipendenti.append(dipendente)
         print(f"{nome} {cognome} aggiunto/a al registro dei dipendenti")
 
+genio del male pocoPIO
+
 
 
