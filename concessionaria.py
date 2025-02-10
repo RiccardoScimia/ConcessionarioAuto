@@ -59,5 +59,6 @@ class dipendente:
 
 genio del male pocoPIO
 
+ho messo commit
 
 
