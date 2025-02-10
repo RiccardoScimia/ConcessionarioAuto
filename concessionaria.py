@@ -61,4 +61,5 @@ genio del male pocoPIO
 
 ho messo commit
 
+aggiungo una 3 linea per venerare la madonna della libera, patrono indiscusso del mondo religioso cristiano, anzi capa suprema di ogni divinità esistente nelle religioni universali
 
